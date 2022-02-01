@@ -1,0 +1,25 @@
+.Navbar{
+    display: flex;
+    align-items: center;
+    background-color: #1f1f24;
+}
+.active{
+    height: 50px;
+    display: flex;
+    color:#ffffff ;
+    align-items: center;
+    transition: all 0.1s;    
+    justify-content: center;
+    border-bottom: 3px solid #ffcc00;
+
+}
+
+.no-active {
+    color: #fdfdfe;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+
